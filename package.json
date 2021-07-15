@@ -1,0 +1,21 @@
+{
+    "name": "intellij-dracula-theme",
+    "displayName": "IntelliJ Dracula Theme",
+    "description": "IntelliJ Dracula theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "IntelliJ Dracula Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/intellij-dracula-color-theme.json"
+            }
+        ]
+    }
+}

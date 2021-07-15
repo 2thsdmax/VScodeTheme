@@ -1,0 +1,1 @@
+# IntelliJ Dracula theme for Visual Studio Code
